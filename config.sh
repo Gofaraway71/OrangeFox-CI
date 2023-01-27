@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_12.1"
+export DT_LINK="https://github.com/Gofaraway71/OFOX-Device_RMX2151 -b main"
 
-export DEVICE="RMX2155"
+export DEVICE="RMX2151"
 export OEM="realme"
 
 # Build Target
